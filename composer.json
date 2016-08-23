@@ -1,0 +1,19 @@
+{
+    "name": "Tony/extra-bundle",
+    "type": "symfony-bundle",
+    "description": "A simple extra bundle for Symfony2",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "authors": [
+        {
+            "name": "Tony",
+            "email": "joseantonio@enbolivia.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Tony\\ExtraBundle\\": ""
+        }
+    }
+}
