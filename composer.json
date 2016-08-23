@@ -1,5 +1,5 @@
 {
-    "name": "Tony/extra-bundle",
+    "name": "tony/extra-bundle",
     "type": "symfony-bundle",
     "description": "A simple extra bundle for Symfony2",
     "require": {
